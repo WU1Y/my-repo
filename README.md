@@ -11,3 +11,8 @@
 - `git status`：查看仓库状态
 - `git add .`：把所有文件加入暂存区
 - `git commit -m "说明"`：提交一次版本
+
+
+
+12121212
+wyweyugwy
